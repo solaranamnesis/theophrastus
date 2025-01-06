@@ -13,7 +13,7 @@ English - PDF | Coelacanth | Biolinum | Atkinson | Kerkis | Auriocus | Custom01
 
 ## Περι Λιθων.
 
-Greek - Plain Text  
+[Greek - Plain Text](on-stones/full-text-greek.md)  
 Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom02 | Custom03  
 Latin - Plain Text  
 Latin - PDF  
