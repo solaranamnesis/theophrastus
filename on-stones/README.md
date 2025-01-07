@@ -1,7 +1,7 @@
 # Περι Λιθων.
 
 [Greek - Plain Text](full-text-greek.md)  
-Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom02 | Custom03  
+[Greek - PDF](https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek.pdf) | [NeoHellenic](https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_neohellenic.pdf) | [FBB](https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_fbb.pdf) | [Fourier](https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_fourier.pdf) | [Kerkis](https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_kerkis.pdf) | [Custom01](https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom01.pdf) | [Custom02](https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom02.pdf) | [Custom03](https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom03.pdf)  
 Latin - Plain Text  
 Latin - PDF  
 English - Plain Text  
